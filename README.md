@@ -11,7 +11,7 @@ perform a set of geospatial analyses for selected agricultural plots located in 
 - checksum file 
 
 #### Research area & time: 
-Selected agricultural plots in Switzerland, year of 2022
+Selected agricultural plots in Switzerland, year of 2020
 
 #### Processing steps:
 1. Initial preparation - integrity check
