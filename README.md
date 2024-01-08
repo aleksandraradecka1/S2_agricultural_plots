@@ -1,6 +1,6 @@
 ## Analyzing a time-series of Sentinel-2 NDVI values characterizing agricultural plots 🛰️⌚🥕
 
-![](image/landuse_cropped_to_content.png)
+![](image/landuse_cropped_to_content.jpg)
 
 #### Goal: 
 perform a set of geospatial analyses for selected agricultural plots located in Switzerland
